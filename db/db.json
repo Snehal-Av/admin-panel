@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone",
+      "stock": 90,
+      "price": "$123.00",
+      "status": "active",
+      "img": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    },
+    {
+      "name": "Samsung Airpods",
+      "stock": "90",
+      "status": "active",
+      "price": "$567.00",
+      "id": 2
+    },
+    {
+      "name": "BoAt",
+      "stock": "56",
+      "price": "$1200.00",
+      "status": "active",
+      "id": 3
+    },
+    {
+      "name": "MI Airpods",
+      "stock": "45",
+      "price": "$234.00",
+      "status": "Not Active",
+      "id": 4
+    },
+    {
+      "name": "i Phones Airpods",
+      "stock": "567",
+      "price": "$1200.00",
+      "status": "Not Active",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "smith joh",
+      "userName": "Anna",
+      "email": "anna@gmail.com",
+      "address": "America",
+      "phone": 345809076,
+      "active": "No"
+    },
+    {
+      "id": 2,
+      "fullName": "Leanne Graham",
+      "userName": "Bret",
+      "email": "Sincere@gmail.com",
+      "address": "New York",
+      "phone": 929983874,
+      "active": "No"
+    },
+    {
+      "id": 3,
+      "fullName": "Ervin Howell",
+      "userName": "smith",
+      "email": "Shanna@melissa.tv",
+      "address": "Wisokyburgh",
+      "phone": 945809076,
+      "active": "No"
+    },
+    {
+      "id": 4,
+      "fullName": "Clementine Bauch",
+      "userName": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": "McKenziehaven",
+      "phone": 745809076,
+      "active": "yes"
+    },
+    {
+      "fullName": "John Smith",
+      "userName": "smith ",
+      "email": "smith@gamil.com",
+      "address": "USA",
+      "phone": "576786879",
+      "active": "yes",
+      "id": 5
+    }
+  ]
+}
